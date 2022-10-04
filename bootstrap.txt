@@ -1,0 +1,13 @@
+The new version of Bootstrap is 5, is supported in all browsers except Explorer 11 or earlier.
+Is a free, open source front-end development framework. 
+It enables responsive development.  Meaning that, if you have pictures or texts in your website, Bootstrap will adjust it so it can perfect fit either websites or mobile. 
+If you zoom in and out of the website everything with adjust accordantly. If you are using a smartphone or tablet, it will defect the screen orientation.  
+
+Bootstrap code can be written in HTML, CSS, and JavaScript. 
+It saves a lot of time spend in writing long CSS code. And allowing more time to be spend designing webpages. 
+Bootstrap is hosted on Github and therefore is part of a community of developers and designers that contribute to its codebase.
+Bootstrap comes equipped with different codes that makes creating a webpage fast. 
+Who wouldn’t want that?, some people finds it a downside because it would limit you from learning how to code and that existing codes will just be recycled without actually understanding.   
+
+https://www.techtarget.com/whatis/definition/bootstrap
+https://careerfoundry.com/en/blog/web-development/what-is-bootstrap-a-beginners-guide/

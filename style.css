@@ -1,0 +1,94 @@
+/* Desktop Wireframe */
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    font-size: 15px;
+  
+  }
+
+  
+  body {
+    width: 80%;
+    min-width: 800px;
+    margin: 0 auto;
+  }
+
+  /* || typography */
+
+  h1, h2 {
+    color: #B09BC7;
+  }
+
+  p {
+    color: #8AB1CF;
+  }
+
+  
+ 
+  nav ul {
+    padding: 0;
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+    
+    
+  }
+
+  nav ul a {
+    color: #B09BC7;
+  }
+
+  nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+    
+
+  }
+
+  /* || main layout */
+
+  main {
+    display: flex;
+  }
+
+  article, section {
+    flex: 1;
+    margin-left: 500px;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  .Porfolio {
+    text-align: center;
+
+  }
+
+  #social {
+    font-size: 30px;
+  }
+  .x  {
+    color: #B09BC7;
+  }
+
+  #social ul {
+    flex: 2;
+    display: flex;
+
+  }
+
+  #social li {
+    float: center;
+    padding-left: 110px;
+    list-style: none;
+    
+  }
+
+  
